@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/MyApplication10Copy.iml" filepath="$PROJECT_DIR$/MyApplication10Copy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/simpleTaskList-master.iml" filepath="$PROJECT_DIR$/simpleTaskList-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleTaskList-numberprogressbar.iml" filepath="$PROJECT_DIR$/simpleTaskList-numberprogressbar.iml" />
     </modules>
   </component>
 </project>
